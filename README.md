@@ -1,4 +1,4 @@
-# KoddiUD OnGothic
+# 감탄로드 돋움체
 
 [원 배포처 링크](https://www.taebaek.go.kr/www/contents.do?key=1872)
 
